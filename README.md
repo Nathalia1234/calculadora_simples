@@ -37,3 +37,13 @@
 
 
 <h2> 🔵 Sobre </h2>
+
+Calculadora com opções de:
+
+- Soma
+- Subtração
+- Divisão
+- Multiplicação
+
+<h2> 🔵 Imagens do Projeto</h2>
+

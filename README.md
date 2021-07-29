@@ -42,8 +42,47 @@ Calculadora com opções de:
 
 - Soma
 - Subtração
-- Divisão
 - Multiplicação
+- Divisão
+- Sair do Programa
+- Informar outros valores
 
 <h2> 🔵 Imagens do Projeto</h2>
+
+<p align="center">Menu Principal</center></p>  
+  
+  ![image](https://user-images.githubusercontent.com/37275221/127549425-44cd87d2-1771-4ffc-b9db-4bd04133ff7e.png)
+
+
+<p align="center">Opção de Soma</center></p>
+
+![image](https://user-images.githubusercontent.com/37275221/127549571-30f1cace-4a5f-4853-a2f1-eeec97d634e1.png)
+
+
+<p align="center">Opção de Subtração </center></p>
+
+![image](https://user-images.githubusercontent.com/37275221/127549947-76f98fe5-f75a-440a-bab8-cd0c871123f0.png)
+
+
+<p align="center">Opção de Multiplicação </center></p>
+
+![image](https://user-images.githubusercontent.com/37275221/127550004-f26e4476-1432-4b7a-95af-4d1c6a96dbaf.png)
+
+
+<p align="center">Opção de Divisão </center></p>
+
+![image](https://user-images.githubusercontent.com/37275221/127550075-49690b2b-cf20-4e58-b22b-e9217387408f.png)
+
+
+<p align="center">Opção de Sair do Programa </center></p>
+
+![image](https://user-images.githubusercontent.com/37275221/127550184-05b8fbe2-8449-4d42-87d9-e97b2fb07c33.png)
+
+
+<p align="center">Opção de informar outros valores </center></p>
+
+![image](https://user-images.githubusercontent.com/37275221/127550305-851255d5-2c54-4a81-a6ef-0aaa6c2bb6eb.png)
+
+
+
 

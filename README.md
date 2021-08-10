@@ -86,3 +86,7 @@ Calculadora com opções de:
 
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nathalia1234&repo=github-readme-stats)](https://github.com/Nathalia1234/github-readme-stats)
+
+
+
